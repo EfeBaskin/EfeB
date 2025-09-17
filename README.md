@@ -11,7 +11,7 @@ Computer Science Student at Bahçeşehir University | AI & Data Science Enthusia
 ---
 
 ### 🚀 About Me
-- 🎓 Studying Computer Engineering at **Bahçeşehir University** (Expected Graduation: 2027).
+- 🎓 Studying Computer Science at **Bahçeşehir University** (Expected Graduation: 2027).
 - 🤖 Experienced in **AI, Machine Learning and Data Science**.
 - 🌱 Currently learning more about **Agentic AI systems**.
 - 🌍 EU Citizen – open to opportunities across Europe.
@@ -30,5 +30,5 @@ Computer Science Student at Bahçeşehir University | AI & Data Science Enthusia
 
 ### 🔗 Connect with Me
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/efebaskin/)  
-[![Email](https://img.shields.io/badge/-Email-red?style=for-the-badge&logo=gmail)](mailto:yourmail@gmail.com)  
+[![Email](https://img.shields.io/badge/-Email-red?style=for-the-badge&logo=gmail)](mailto:efebaskin2005@gmail.com)  
 [![Hugging Face](https://img.shields.io/badge/-HuggingFace-yellow?style=for-the-badge&logo=huggingface&logoColor=black)](https://huggingface.co/efebaskin)
